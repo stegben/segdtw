@@ -1,5 +1,10 @@
 # segdtw
-Segmental dynamic time warping
+Segmental dynamic time warping. Code inspired by https://github.com/slaypni/fastdtw.
+
+## Install
+```
+pip install segdtw==0.1.0
+```
 
 ## Usage
 
